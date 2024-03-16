@@ -1,8 +1,8 @@
-                                                SEO Graphical Calculator
-Welcome to the SEO Graphical Calculator repository! This repository hosts a powerful tool designed to help users visualize and explore mathematical functions with ease. Whether you are a student, educator, or anyone passionate about mathematics, this calculator serves as an invaluable resource for understanding and experimenting with various functions.
+                                            Graphical Calculator
+Welcome to the Graphical Calculator repository! This repository hosts a powerful tool designed to help users visualize and explore mathematical functions with ease. Whether you are a student, educator, or anyone passionate about mathematics, this calculator serves as an invaluable resource for understanding and experimenting with various functions.
 
                                                        About
-The SEO Graphical Calculator boasts a user-friendly interface that empowers users to input mathematical expressions effortlessly. Leveraging the capabilities of Python libraries like NumPy, Matplotlib, and SymPy, it instantaneously generates graphical representations of the input functions. This creates a seamless and interactive environment, allowing users to explore mathematical concepts dynamically.
+The Graphical Calculator boasts a user-friendly interface that empowers users to input mathematical expressions effortlessly. Leveraging the capabilities of Python libraries like NumPy, Matplotlib, and SymPy, it instantaneously generates graphical representations of the input functions. This creates a seamless and interactive environment, allowing users to explore mathematical concepts dynamically.
 
                                                     Key Features
 Custom Feature: Users can input multiple mathematical expressions simultaneously, enabling the exploration of a wide spectrum of functions, from the fundamental to the intricate.
